@@ -7,7 +7,7 @@ NOTE: If you want to use both classification and regression extensions, you shou
 
 NOTE: The datasets and/or data used in the extensions are only examples, the models are to be used generically and depending on the needs of each user, they can adapt or change the dataset they are using or training.
 
-Extensions .AIX in directory Sciblock/Extensions
+Extensions .AIX in directory Sciblock/Extensions                                                                                                                                  
 Datasets for examples in directory Sciblock/Datasets
 
 
