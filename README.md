@@ -1,4 +1,4 @@
-# SciBlock.org 
+# SciBlock.org - Launch 20 / Dec / 2023
 # Examples for export in Blockly and others plaform with this language visual programming contains extensions .AIX and examples .AIA
 # Artificial Intelligence - Machine Learning, NLP, Computer Vision, Neural Networks, Data Science, Security and Communications. 
 Extensions AIX using programming visual Blockly
